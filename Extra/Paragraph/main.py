@@ -29,4 +29,4 @@ def paragraphAnalyzer(file):
     print(f"Average Sentence Length: {avg_sentence_length}")   
     
         
-paragraphAnalyzer('Resources/paragraph_3.txt')
+paragraphAnalyzer('Resources/paragraph_1.txt')
